@@ -1,8 +1,5 @@
-﻿using System;
+﻿namespace dotnet_winformslib;
 
-namespace dotnet_winformslib
+public class Class1
 {
-    public class Class1
-    {
-    }
 }

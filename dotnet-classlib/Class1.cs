@@ -1,8 +1,5 @@
-﻿using System;
-
-namespace dotnet_classlib
+﻿namespace dotnet_classlib;
+public class Class1
 {
-    public class Class1
-    {
-    }
+
 }

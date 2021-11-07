@@ -1,13 +1,9 @@
-﻿using System;
-using System.Windows.Forms;
+﻿namespace dotnet_winformscontrollib;
 
-namespace dotnet_winformscontrollib
+public partial class UserControl1: UserControl
 {
-    public partial class UserControl1: UserControl
+    public UserControl1()
     {
-        public UserControl1()
-        {
-            InitializeComponent();
-        }
+        InitializeComponent();
     }
 }

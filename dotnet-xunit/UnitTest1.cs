@@ -1,14 +1,12 @@
-using System;
 using Xunit;
 
-namespace dotnet_xunit
-{
-    public class UnitTest1
-    {
-        [Fact]
-        public void Test1()
-        {
+namespace dotnet_xunit;
 
-        }
+public class UnitTest1
+{
+    [Fact]
+    public void Test1()
+    {
+
     }
 }
