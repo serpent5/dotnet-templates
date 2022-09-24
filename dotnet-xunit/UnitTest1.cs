@@ -1,5 +1,3 @@
-using Xunit;
-
 namespace dotnet_xunit;
 
 public class UnitTest1

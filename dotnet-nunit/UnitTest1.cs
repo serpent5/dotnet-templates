@@ -1,5 +1,3 @@
-using NUnit.Framework;
-
 namespace dotnet_nunit;
 
 public class Tests
