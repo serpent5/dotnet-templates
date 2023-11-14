@@ -1,8 +1,7 @@
-using System;
 
-namespace dotnet_wpflib
+namespace dotnet_wpflib;
+
+public class Class1
 {
-    public class Class1
-    {
-    }
 }
+
